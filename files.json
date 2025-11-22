@@ -1,0 +1,887 @@
+[
+  {
+    "path": "almostunified-forge-1.20.1-0.10.1.jar",
+    "sha1": "908bb8c851a38e2ad4f3e5965b1b9a6668070d66",
+    "size": 217445
+  },
+  {
+    "path": "anvianslib-forge-1.20-1.4.1.jar",
+    "sha1": "42f48a6a22e22e831e51942534565174ff678e44",
+    "size": 30312
+  },
+  {
+    "path": "appleskin-forge-mc1.20.1-2.5.1.jar",
+    "sha1": "81919356f84eab14258db98924b66c3c38e372b1",
+    "size": 47428
+  },
+  {
+    "path": "appliedenergistics2-forge-15.4.10.jar",
+    "sha1": "ac255a120499f79f8deade474da09e3c00ff9bad",
+    "size": 8495956
+  },
+  {
+    "path": "architectury-9.2.14-forge.jar",
+    "sha1": "a52918a500ff421180a1cbd1a0cabee712134ec4",
+    "size": 580602
+  },
+  {
+    "path": "AsyncParticles-2.4.0-beta.3+1.20.1.jar",
+    "sha1": "4702349c25f4e65cf495beabdfb2c6a9ad68e528",
+    "size": 1297496
+  },
+  {
+    "path": "BadOptimizations-2.3.1-1.20.1.jar",
+    "sha1": "05961374fb4e561e063168d058b155f8415c6697",
+    "size": 452475
+  },
+  {
+    "path": "bellsandwhistles-0.4.5-1.20.x-Create6.0+.jar",
+    "sha1": "2487eea5f1368d70e16c7c6a08c18be3b5d3c0d0",
+    "size": 199902
+  },
+  {
+    "path": "betterbiomereblend-1.5.3.jar",
+    "sha1": "80d2e5e3bc88c610244d449859c4e3480f3edae1",
+    "size": 226772
+  },
+  {
+    "path": "betterchunkloading-1.20.1-5.4.jar",
+    "sha1": "cd7e61a4f5eca956094e0844560382ca58d79bc6",
+    "size": 55968
+  },
+  {
+    "path": "betterfpsdist-1.20.1-6.0.jar",
+    "sha1": "8e4fe2cd85c08c24ab363b47a63d1c872fc3cc1e",
+    "size": 19917
+  },
+  {
+    "path": "bigcontraptions-1.0.jar",
+    "sha1": "3bebfb40c2d232ac69214126012dd28106c3a917",
+    "size": 8540
+  },
+  {
+    "path": "blinkload-forge-1.2.1+mc1.20-1.20.1 (1).jar",
+    "sha1": "eae6964a16d3c4ee5c76b09606cfae2038970ce4",
+    "size": 245339
+  },
+  {
+    "path": "Bookshelf-Forge-1.20.1-20.2.13.jar",
+    "sha1": "c53d9eb5ce9e8ef0f2ea9b11e478d84ce958c3e5",
+    "size": 343962
+  },
+  {
+    "path": "botarium-forge-1.20.1-2.3.4.jar",
+    "sha1": "a6928cb03b7c5f81900d3d3c8e8c8f6a89a51a5b",
+    "size": 157633
+  },
+  {
+    "path": "canary-mc1.20.1-0.3.3.jar",
+    "sha1": "898abd9e337ef1c677ce93f5589497a09c7e9850",
+    "size": 594191
+  },
+  {
+    "path": "cbc_at_Forge_1.20.1_0.1.3b.jar",
+    "sha1": "762a19295e38a30070490eca7c923397ce2132a6",
+    "size": 1127041
+  },
+  {
+    "path": "clientcrafting-1.20.1-1.8.jar",
+    "sha1": "2cd821e69e88d3eda2c144b268c25b361ded3d9a",
+    "size": 7089
+  },
+  {
+    "path": "cloth-config-11.1.136-forge.jar",
+    "sha1": "c65d07748acc57ceb45d53b3964368b84f34d54f",
+    "size": 1181413
+  },
+  {
+    "path": "connectivity-1.20.1-7.2.jar",
+    "sha1": "b05ecfb2729938fb5ce38df6af43b0b4e55b1833",
+    "size": 112268
+  },
+  {
+    "path": "copycats-3.0.2+mc.1.20.1-forge.jar",
+    "sha1": "b520234ee3194ada89bbfa0336e3abee11d711e7",
+    "size": 1988341
+  },
+  {
+    "path": "Create Encased-1.20.1-1.7.2-fix2.jar",
+    "sha1": "8b5b7944fa5b66df81778305ffd494aaf48bfcbd",
+    "size": 2021478
+  },
+  {
+    "path": "Create Sweets And Treats 1.1.1.jar",
+    "sha1": "60ac3dc98958d11043f15a877b03094835149f25",
+    "size": 288147
+  },
+  {
+    "path": "create-1.20.1-6.0.8.jar",
+    "sha1": "b13d912b9247a38d66d11598c121442585a1c1e9",
+    "size": 19170905
+  },
+  {
+    "path": "create-confectionery1.20.1_v1.1.0.jar",
+    "sha1": "96bcf48819806ee0911d3e555de8cbc77c9dea05",
+    "size": 2122376
+  },
+  {
+    "path": "create-deco-additions-1.3.2.jar",
+    "sha1": "4c342731e62027d66b5aaa8ed3bc70e074e91f19",
+    "size": 407561
+  },
+  {
+    "path": "create-food-1.20.1-1.1.11-forge.jar",
+    "sha1": "7ddfef5787c99fd713ada8daadfce6178bb03dd5",
+    "size": 7386163
+  },
+  {
+    "path": "Create-Guardian-Beam-Defense-1.3.2b-1.20.1.jar",
+    "sha1": "08885f5424f55f14b9211e908662631032388692",
+    "size": 151898
+  },
+  {
+    "path": "create-man-of-many-planes-1.0.jar",
+    "sha1": "e8760f61bfd6fd63c7330347eaa3b336f9d384bd",
+    "size": 1921476
+  },
+  {
+    "path": "create-metalwork-1.20.1-1.0.11-forge.jar",
+    "sha1": "ae8b9df178221e9d243d19e9aaf090f2bb1a3217",
+    "size": 3655405
+  },
+  {
+    "path": "create-new-age-forge-1.20.1-1.1.4.jar",
+    "sha1": "46687106ee5753ff3a92580ce514c6abc6216045",
+    "size": 603827
+  },
+  {
+    "path": "create-renewable-brass-1.0.1.jar",
+    "sha1": "cbbe58cdb57bd1d20ab6e8817308a6fbcae6dc1b",
+    "size": 74729
+  },
+  {
+    "path": "create-renewable-diamonds-1.0.0.jar",
+    "sha1": "a090027c3f4f8a67f184a9d02633a0a8e5f4a29f",
+    "size": 63907
+  },
+  {
+    "path": "create-renewable-netherite-2.0.0.jar",
+    "sha1": "e86c683dfbd3b6052c56e711eceb084dec9f733a",
+    "size": 64377
+  },
+  {
+    "path": "create-stones-2.0.0.jar",
+    "sha1": "29b444c417cf6a646f808c8ebf108be4f62e37bd",
+    "size": 220445
+  },
+  {
+    "path": "create-structures-0.1.1-1.20.1-FORGE.jar",
+    "sha1": "6bd0a029f7ae4e400b55f8355f73e69dc31bd1a8",
+    "size": 484781
+  },
+  {
+    "path": "create-track-map-1.4+mc1.20.1-neoforge.jar",
+    "sha1": "bb5a15f1c2d8cc68f5f80e2d04ad3e796de07a6f",
+    "size": 4392723
+  },
+  {
+    "path": "createaddition-1.20.1-1.3.3.jar",
+    "sha1": "c7d464c451fdc2979bc29a67d7eec2a30858af12",
+    "size": 1577313
+  },
+  {
+    "path": "createaddoncompatibility-0.2.4.jar",
+    "sha1": "9ce0de488e84236d382a82b97585372535cfefbc",
+    "size": 165668
+  },
+  {
+    "path": "createappliedkinetics-1.5.1-1.20.1.jar",
+    "sha1": "339f229406b2d946f4ad92f67b59735ad8668a92",
+    "size": 67597
+  },
+  {
+    "path": "createarmoryv0.6.1n.jar",
+    "sha1": "a87808cb03f05e4759d060190f2d8edb26e16d53",
+    "size": 1059027
+  },
+  {
+    "path": "createbetterfps-1.20.1-1.1.1.jar",
+    "sha1": "519f436f67c316db546cbab54a03fdbfd17fe9f1",
+    "size": 24819
+  },
+  {
+    "path": "createbicbit-1.20.1-1.0.1B.jar",
+    "sha1": "5a5a14ec9de38d1e0af4b4dece9a0dc8cb9b1901",
+    "size": 403681
+  },
+  {
+    "path": "createbigcannons-5.9.1+mc.1.20.1-forge.jar",
+    "sha1": "44b3861ad412a25b3b5ed29cc16ff331677706d6",
+    "size": 3978723
+  },
+  {
+    "path": "createcafe-1.2.4-1.20.1.jar",
+    "sha1": "d7f48c95833c8d83f2d9f8240819f2e9ee8dc3c0",
+    "size": 385855
+  },
+  {
+    "path": "createcobblestone-1.4.5+forge-1.20.1-106.jar",
+    "sha1": "de37561041e967b957814c007a28dc5dfc5735ec",
+    "size": 567572
+  },
+  {
+    "path": "createcontraptionterminals-1.20-1.2.0.jar",
+    "sha1": "10bedd1b9b03eb950936e29e339bf840ee739b65",
+    "size": 88862
+  },
+  {
+    "path": "createdeco-2.0.3-1.20.1-forge.jar",
+    "sha1": "54c8ad5686b846310bca9e69982a455e668dede3",
+    "size": 3509013
+  },
+  {
+    "path": "createdieselgenerators-1.20.1-1.3.5.jar",
+    "sha1": "2df4efb746a747355ea050f564c26440fde1fc56",
+    "size": 3120516
+  },
+  {
+    "path": "createenchantablemachinery-3.4.3+mc1.20.1-forge.jar",
+    "sha1": "e3fcddcd2d355e6ef17bad525b79a2392242d341",
+    "size": 579821
+  },
+  {
+    "path": "createendertransmission-2.1.1-1.20.1.jar",
+    "sha1": "25a28e958fc9182c74bdb254c77803750ada3238",
+    "size": 84234
+  },
+  {
+    "path": "createframed-1.20.1-1.7.jar",
+    "sha1": "0ee436a0390f744648f3baaeb31f5c1abf7c1b13",
+    "size": 1182608
+  },
+  {
+    "path": "creategoggles-1.20.1-6.1.0-[FORGE].jar",
+    "sha1": "35ad2030f7ac0da833c16f00e003a22cb01ccbb3",
+    "size": 201239
+  },
+  {
+    "path": "createliquidfuel-2.1.1-1.20.1.jar",
+    "sha1": "d216cf52735f8e4d3594943139599f6b0b20b8cf",
+    "size": 20245
+  },
+  {
+    "path": "CreateMoreAutomation-1.20.1-0.4.0.jar",
+    "sha1": "6657c37389bfdf8c49030ffb2362873557b9db26",
+    "size": 14141
+  },
+  {
+    "path": "createmoredrillheads-2.1.0-1.20.1.jar",
+    "sha1": "c3f3acb88dc3668f60261b216fbbe11b6e4fcacf",
+    "size": 127773
+  },
+  {
+    "path": "createnuclear-1.3.1-forge.jar",
+    "sha1": "22913a9132538fe8c86a27b8de5f7b7b8842e30d",
+    "size": 1825902
+  },
+  {
+    "path": "CreateNumismatics-1.0.15+forge-mc1.20.1.jar",
+    "sha1": "f49daf6ea32cd7b15816dafff5cf8fe291c89218",
+    "size": 885623
+  },
+  {
+    "path": "createoreexcavation-1.20-1.6.5.jar",
+    "sha1": "ef135e6124a7c8bb04a6cf8ef3d3680de4f44425",
+    "size": 432699
+  },
+  {
+    "path": "createrailwaysnavigator-forge-1.20.1-beta-0.8.5-C6.jar",
+    "sha1": "1a1dc3146fc173fe145766ae65d056c75df570e5",
+    "size": 3178491
+  },
+  {
+    "path": "createsifter-1.20.1-1.8.6-6.0.6.jar",
+    "sha1": "392d21477c1bba6c47f2a5fced662875b016a09e",
+    "size": 620951
+  },
+  {
+    "path": "CreateTankDefenses v0.80.jar",
+    "sha1": "1faaf93d247e642386a8fe9a665300a8fd387a45",
+    "size": 7437016
+  },
+  {
+    "path": "CreateUnbreakableTools-1.9-1.20.1-forge-13.jar",
+    "sha1": "a3a5829096073af91613e5f3b5861fdec4eb53ca",
+    "size": 72363
+  },
+  {
+    "path": "createutilities-0.3.2+1.20.1.jar",
+    "sha1": "60eff24cdd0f167643e75f14062845c584245e80",
+    "size": 358535
+  },
+  {
+    "path": "create_alloyed-2.1.2+1.20.1.jar",
+    "sha1": "d63d7ea3f3bae16179dbd0e6db8ebbc4c74d942c",
+    "size": 520721
+  },
+  {
+    "path": "create_aquatic_ambitions-1.20.1-6.0.8-2.0.2.jar",
+    "sha1": "6682e48018115538d4de14dad6829871a70ebe3f",
+    "size": 1035179
+  },
+  {
+    "path": "create_armor_trims-1.20.1-2.0.1.jar",
+    "sha1": "d47ef027154e5dcaf1ea8bea3fb70e8824c01f60",
+    "size": 113676
+  },
+  {
+    "path": "create_better_villagers-1.3.2.jar",
+    "sha1": "52c1146bc38cfdf85eafc47e474a75b561f2557b",
+    "size": 175952
+  },
+  {
+    "path": "create_ca-2.2 - 1.20.1.jar",
+    "sha1": "b3e48b17bef617556c07f1655311ad33aca681eb",
+    "size": 430856
+  },
+  {
+    "path": "create_central_kitchen-1.20.1-for-create-6.0.6-1.4.3b.jar",
+    "sha1": "4e1048ce2b5453d657b42ea5dcec5ada1842b0ea",
+    "size": 822499
+  },
+  {
+    "path": "create_compatible_storage-2.8.1-all.jar",
+    "sha1": "ed0f3dd53eb7fdecb4b9722b44872373a3e03854",
+    "size": 738449
+  },
+  {
+    "path": "create_compressed-2.1.0-forge-1.20.1.jar",
+    "sha1": "89e802ae56cd0be87646653fd48a40b3ecb7bea4",
+    "size": 153989
+  },
+  {
+    "path": "create_connected-1.1.9-mc1.20.1-all.jar",
+    "sha1": "8ecff58c8516e5c624ac060cd06b2200deb342a9",
+    "size": 6566808
+  },
+  {
+    "path": "create_copper_and_zinc-1.6.0-forge-1.20.1.jar",
+    "sha1": "5f33587b0d1a3afd23274cf55896bd9e530e44b4",
+    "size": 95829
+  },
+  {
+    "path": "create_deep_dark-1.7.0-forge-1.20.1.jar",
+    "sha1": "cf113bb2f82311f0a519c0766084158f40b0e849",
+    "size": 220049
+  },
+  {
+    "path": "create_easy_structures-0.2-forge-1.20.1.jar",
+    "sha1": "cae27a3b20cf7286ae427c319e8b7f507e61043a",
+    "size": 473508
+  },
+  {
+    "path": "create_enchantment_industry-1.3.3-for-create-6.0.6.jar",
+    "sha1": "06fbad254100a7c9fcf829e1e33c5348d9799a87",
+    "size": 488060
+  },
+  {
+    "path": "create_factory-0.4b-1.20.1.jar",
+    "sha1": "977b5f5f75f7449bde8f7ab7f1405d55ec225729",
+    "size": 263934
+  },
+  {
+    "path": "create_factory_logistics-1.20.1-1.4.7.jar",
+    "sha1": "bf67707d1645197f27cd9a4abea13159fa0fef1e",
+    "size": 1112673
+  },
+  {
+    "path": "create_high_pressure-1.1.0.jar",
+    "sha1": "1a02f62110e1ad1636cc518fc31a9309a075e811",
+    "size": 149755
+  },
+  {
+    "path": "create_hypertube-0.2.6-hotfix-FORGE.jar",
+    "sha1": "83c1728344eef7669b933e36a42a1d0e4f529ea8",
+    "size": 351225
+  },
+  {
+    "path": "create_ironworks-3.5.0-forge-1.20.1.jar",
+    "sha1": "f12873c2543a379ec087d5b52f2c974dc97f4093",
+    "size": 768722
+  },
+  {
+    "path": "create_jetpack-forge-4.4.5.jar",
+    "sha1": "8f749adc765044933288de6a062d9cf4c4e85afb",
+    "size": 638421
+  },
+  {
+    "path": "create_jetpack_curios-1.2.0-forge-1.20.1.jar",
+    "sha1": "0aab00450801572cd81fdf3d30221bfc4827a9dc",
+    "size": 420049
+  },
+  {
+    "path": "create_ltab-3.4.2.jar",
+    "sha1": "b66cfeaea8d80c91734b3210e7f6742330579af6",
+    "size": 2098688
+  },
+  {
+    "path": "create_mecanical_extruder-1.20.1-1.6.11-6.0.6.jar",
+    "sha1": "cf3c7a54e2cd0b1441b897ad4c88dcacb2163f4a",
+    "size": 513561
+  },
+  {
+    "path": "create_mechanical_spawner-1.20.1-0.1.7-6.0.6.jar",
+    "sha1": "82eb9a787154f118b3a46137798891069bb37b0b",
+    "size": 1166069
+  },
+  {
+    "path": "create_misc_and_things_ 1.20.1_4.0A.jar",
+    "sha1": "c5a6e8ec10bca9c349698afade327ecc3fbbdf17",
+    "size": 1014347
+  },
+  {
+    "path": "create_mobile_packages-1.20.1-0.6.0-Beta-02.jar",
+    "sha1": "6a68cf37d064c28f31f38c54226c1fe9e4d127c4",
+    "size": 385330
+  },
+  {
+    "path": "create_nuke-1.1.0-forge-1.20.1.jar",
+    "sha1": "1d7f1da0db4a46572e1ea67314572d98544ce1f1",
+    "size": 288191
+  },
+  {
+    "path": "create_oppenheimered-1.0.5.jar",
+    "sha1": "64f6342985f5dfc7810f5d717707174eef0a32dd",
+    "size": 40540
+  },
+  {
+    "path": "create_oxidized-0.1.2.jar",
+    "sha1": "cf1aae96a1af67d6ea615060cf8061fc18730ddb",
+    "size": 116477
+  },
+  {
+    "path": "create_pattern_schematics-1.3.3.jar",
+    "sha1": "54ad9320a644dbcde87118e82a6dfcc81cd4757b",
+    "size": 220784
+  },
+  {
+    "path": "create_power_loader-2.0.3-mc1.20.1.jar",
+    "sha1": "6b638fb67730d8429ec64fb43e20ad651f2e49b6",
+    "size": 227962
+  },
+  {
+    "path": "create_radar-0.3.1+mc1.20.1-all.jar",
+    "sha1": "01c5ddb50d437a488a893338db2188c63e3ebb28",
+    "size": 2320737
+  },
+  {
+    "path": "create_ratatouille-1.20.1-1.3.6 for Create6.0.7~.jar",
+    "sha1": "d095379adcd45b176866ddf37d1eabbebf81108a",
+    "size": 871541
+  },
+  {
+    "path": "create_structures_arise-162.35.34-forge-1.20.1.jar",
+    "sha1": "e714e080598caf15968f06da434d8ada6cc53eb8",
+    "size": 636723
+  },
+  {
+    "path": "create_trimmed.jar",
+    "sha1": "e21797b5af6f3cec0c8f2fd6d3fcf51dca324a2c",
+    "size": 50177
+  },
+  {
+    "path": "create_tweaked_controllers-1.20.1-1.2.5.jar",
+    "sha1": "f71ca2b4e555b112930680c17840ec56df8445f8",
+    "size": 298502
+  },
+  {
+    "path": "create_ultimate_factory-2.2.1-forge-1.20.1.jar",
+    "sha1": "995ac0c9888711c49ea133127493f551371c03da",
+    "size": 229986
+  },
+  {
+    "path": "create_vibrant_vaults-0.3.2.jar",
+    "sha1": "53507b66c3a54d7f5fd6fe3cf9c893371e1b6fc6",
+    "size": 2754885
+  },
+  {
+    "path": "create_wizardry-0.2.3-forge-1.20.1.jar",
+    "sha1": "e3960cd08c218fc4571ca59aea8f4e348343af7d",
+    "size": 237385
+  },
+  {
+    "path": "crystallized-1.1-FORGE.jar",
+    "sha1": "599f67f621d2593ba0c36c59e0c3b63053db128a",
+    "size": 628741
+  },
+  {
+    "path": "cupboard-1.20.1-2.7.jar",
+    "sha1": "204bc8aa83e8a685f64311b72d55505ab2eca867",
+    "size": 25983
+  },
+  {
+    "path": "cwb-forge-3.0.0+mc1.20.jar",
+    "sha1": "f13cdf747b7f97a27f0a365f8390a72e3ea5fe99",
+    "size": 258613
+  },
+  {
+    "path": "dynamic-fps-3.9.5+minecraft-1.20.0-forge.jar",
+    "sha1": "a034d1752abd84dc188852dac1ef87fb8ab2247a",
+    "size": 376061
+  },
+  {
+    "path": "dynamicvillage-v0.4-1.20.1.jar",
+    "sha1": "50286eccc1f5ace423fe3e334f2f33cd73892101",
+    "size": 202805
+  },
+  {
+    "path": "EBE-1.20-1.20.1-0.9.1B.jar",
+    "sha1": "581ac917ce1708a708fe5c66eef82e1978972743",
+    "size": 287043
+  },
+  {
+    "path": "embeddium-0.3.31+mc1.20.1.jar",
+    "sha1": "bb2fa8f3e493af16af9160d049f96c614a1faf2f",
+    "size": 1320675
+  },
+  {
+    "path": "emi-1.1.22+1.20.1+forge.jar",
+    "sha1": "d8049d6ec86befcd100a0ff0fc8ebc289f735997",
+    "size": 1048567
+  },
+  {
+    "path": "EMIEnchants-forge-1.19.3-1.20.4-1.0.0.jar",
+    "sha1": "d01c60fa55b9bc0700c23b04afc1fb43d579ccc1",
+    "size": 33704
+  },
+  {
+    "path": "emiffect-forge-1.1.2+mc1.20.1.jar",
+    "sha1": "cb87cd6b12e3a9cc5bbb979406d310fe50cd92a6",
+    "size": 19646
+  },
+  {
+    "path": "emitrades-forge-1.2.1+mc1.20.1.jar",
+    "sha1": "ea86eceb04978bc366fe022bbab5dd5ea0bd3ab4",
+    "size": 53378
+  },
+  {
+    "path": "emi_enchanting-0.1.2+1.20.1+forge.jar",
+    "sha1": "0374c5c3eb4dd361f89388cda84744dc70ae638d",
+    "size": 15470
+  },
+  {
+    "path": "emi_loot-0.7.6+1.20.1+forge.jar",
+    "sha1": "ae1753ff363181e1b976716e768699e711dc5f2e",
+    "size": 414381
+  },
+  {
+    "path": "emi_ores-1.2+1.20.1+forge.jar",
+    "sha1": "c821f26e4a00c14fb453bfdb7628aec59fd2acf1",
+    "size": 114588
+  },
+  {
+    "path": "EnchantmentDescriptions-Forge-1.20.1-17.1.19.jar",
+    "sha1": "7cb8e1242d058c9800e1f3f886930647de7f44e1",
+    "size": 69476
+  },
+  {
+    "path": "entityculling-forge-1.9.3-mc1.20.1.jar",
+    "sha1": "8faea4818faab6b870ee370b52434b016542b519",
+    "size": 477884
+  },
+  {
+    "path": "escalated-1.1.0+create.6.0.6-mc.1.20.1-forge.jar",
+    "sha1": "63fb74d5080e179d8bf7e62f385b70ec0c82d2b5",
+    "size": 700338
+  },
+  {
+    "path": "FarmersDelight-1.20.1-1.2.9.jar",
+    "sha1": "ca9417c369e75d38dacdac59937223e5f6adcc18",
+    "size": 2978080
+  },
+  {
+    "path": "fast-ip-ping-v1.0.7-mc1.20.4-forge.jar",
+    "sha1": "253d21fd87657e6dc1e451c9758f5daaa71b86c8",
+    "size": 10557
+  },
+  {
+    "path": "FastEvent-1.20.1-1.1.1.jar",
+    "sha1": "7d12a2230422f964fa5df5ca0433e9425254aaf5",
+    "size": 32785
+  },
+  {
+    "path": "Fastload-Reforged-mc1.20.1-3.4.0.jar",
+    "sha1": "27d58f123951e0404c94caf16ff9b96b442f371c",
+    "size": 66989
+  },
+  {
+    "path": "ferritecore-6.0.1-forge.jar",
+    "sha1": "417fb6ce8f52abf40bd9d0390371790f9576f8ba",
+    "size": 123034
+  },
+  {
+    "path": "flerovium-forge-1.20.1-1.2.16-all.jar",
+    "sha1": "12dd81bea1dc7a2a240646a778ec9921f250713f",
+    "size": 233586
+  },
+  {
+    "path": "fzzy_config-0.7.3+1.20.1+forge.jar",
+    "sha1": "e771e543e930bd7c733f803bdbc0d3f2ecfb46c4",
+    "size": 2312969
+  },
+  {
+    "path": "garnished-2.1.2+1.20.1-neoforged.jar",
+    "sha1": "2c19e709cafd9c558153d4590ed1ba526554cf44",
+    "size": 3204085
+  },
+  {
+    "path": "geckolib-forge-1.20.1-4.8.2.jar",
+    "sha1": "395a9f21a36dc8466d67c2af67a904e7013460d1",
+    "size": 1038979
+  },
+  {
+    "path": "GPUTape-1.18x-1.21x-1.0.5.1.jar",
+    "sha1": "db4a84db628dd668e08898e42e881615d34f0629",
+    "size": 20295
+  },
+  {
+    "path": "guideme-20.1.14.jar",
+    "sha1": "57d883148f04989128505a1bd8919629440f714f",
+    "size": 9413204
+  },
+  {
+    "path": "Icterine-forge-1.20.0-1-1.3.0.jar",
+    "sha1": "55fde23d7602924ba4772d441fb5a78d562be238",
+    "size": 38848
+  },
+  {
+    "path": "ImmediatelyFast-Forge-1.5.2+1.20.4.jar",
+    "sha1": "2eeca5deb063ed49bb9c6be8b162ca6270202239",
+    "size": 425140
+  },
+  {
+    "path": "interiors-0.5.6+forge-mc1.20.1-local.jar",
+    "sha1": "5f46c829dc012138faa1191d97ef79c7569b53a1",
+    "size": 465540
+  },
+  {
+    "path": "InventoryProfilesNext-forge-1.20-1.10.19.jar",
+    "sha1": "432f4b107b13818bd2c1d16dccc9212da61e2a17",
+    "size": 1456863
+  },
+  {
+    "path": "Ixeris-3.6.3+1.20.1-forge.jar",
+    "sha1": "22e3da2e6ebb1b1dc32a0d929515e57eb0e88a12",
+    "size": 1325274
+  },
+  {
+    "path": "jeed-1.20-2.2.5.jar",
+    "sha1": "9f6b1884ad8b81c0e8796daf7871eeb54271f27b",
+    "size": 159288
+  },
+  {
+    "path": "jei-1.20.1-forge-15.20.0.106-9-async.jar",
+    "sha1": "3ba47e571ade3d49fd11564fac50cdc252850b71",
+    "size": 1391262
+  },
+  {
+    "path": "kotlinforforge-4.11.0-all.jar",
+    "sha1": "1fd8acfd75a2be2dc3cdcc7e816482b2e427d6e5",
+    "size": 7193768
+  },
+  {
+    "path": "KryptonReforged-0.2.3 (1).jar",
+    "sha1": "92690482dad46a8c9cf28e4b6b26e49f4dc67095",
+    "size": 206758
+  },
+  {
+    "path": "languagereload-forge-1.20.1-1.0.1-all.jar",
+    "sha1": "4a07f7eb0b8bb7055c90f213841cf8df8c037f50",
+    "size": 201732
+  },
+  {
+    "path": "lazyyyyy-lexforge-core-0.14.19.jar",
+    "sha1": "5a7dc4414e0f950fe875c9e20b740c5dba300132",
+    "size": 2639494
+  },
+  {
+    "path": "libIPN-forge-1.20-4.0.2.jar",
+    "sha1": "3e7c7fcdc037a6ae3d9146e718d87fc83f88f6d5",
+    "size": 693301
+  },
+  {
+    "path": "limitedchunks-1.20.1-4.1.jar",
+    "sha1": "c6dae9dcdb46b577aba270d3f951291ea235e334",
+    "size": 16405
+  },
+  {
+    "path": "memoryleakfix-forge-1.17+-1.1.5.jar",
+    "sha1": "9f60142dd94631800386a16a4ad70ad9e84cd78a",
+    "size": 227925
+  },
+  {
+    "path": "modelfix-1.15.jar",
+    "sha1": "5bdda0781bf9dfb5f992a7aa2bee64d5d3fe0b84",
+    "size": 45246
+  },
+  {
+    "path": "modernfix-forge-5.25.1+mc1.20.1.jar",
+    "sha1": "124ea5db8c3b7dc00166806ef0fc412177882fda",
+    "size": 895267
+  },
+  {
+    "path": "molten_metals-1.20.1-0.1.4-forge.jar",
+    "sha1": "d5c042d0a56ec0a4c0e238215cbdf13ef6903f80",
+    "size": 506726
+  },
+  {
+    "path": "molten_vents-1.20.1-2.0.9.jar",
+    "sha1": "e8940356f4f8f4ad451acd2de361536c1eaed93c",
+    "size": 96093
+  },
+  {
+    "path": "moonlight-1.20-2.16.16-forge.jar",
+    "sha1": "f1ad21bce5a4b96a1152d6cf83cfb27684fc4b6a",
+    "size": 1333455
+  },
+  {
+    "path": "oculus-mc1.20.1-1.8.0.jar",
+    "sha1": "984f774e71790deaec674c7587bd24e0711871b2",
+    "size": 2851119
+  },
+  {
+    "path": "packetfixer-3.3.1-1.18-1.20.4-merged.jar",
+    "sha1": "0bef29023c8cadb2934d78a8b0066b49d4460974",
+    "size": 188673
+  },
+  {
+    "path": "Palladium-1.20-1.20.2-1.1.6.2.jar",
+    "sha1": "6e57c21f7aba3d020b5179e505f4ffed0955b892",
+    "size": 97403
+  },
+  {
+    "path": "particle_core-0.2.6+1.20.1+forge.jar",
+    "sha1": "91f302ab9b85016aeb3a9a0e85b80650a1d2e984",
+    "size": 97943
+  },
+  {
+    "path": "pipeorgans-0.7.3+1.20.1.jar",
+    "sha1": "2af85f219a3e528b7e2f0fb1afd7e4df711658b2",
+    "size": 2742472
+  },
+  {
+    "path": "recipeessentials-1.20.1-4.0.jar",
+    "sha1": "6e50995efefdef6f77f0289200a17ae4c18cde75",
+    "size": 50739
+  },
+  {
+    "path": "resourcefullib-forge-1.20.1-2.1.29.jar",
+    "sha1": "6fc590a7c56a720fec57e290cbb0a106efbb3ffa",
+    "size": 432753
+  },
+  {
+    "path": "ritchiesprojectilelib-2.1.0+mc.1.20.1-forge.jar",
+    "sha1": "3f8af3e9e7331be574bcbb1dca479c83b9cd45bd",
+    "size": 78667
+  },
+  {
+    "path": "rpc-1.1.2+1.20.1-forge.jar",
+    "sha1": "19e88579617d599eb4d9389980c4323395be196e",
+    "size": 12998
+  },
+  {
+    "path": "ruok-forge_1.20.1-1.7.2.jar",
+    "sha1": "74077c62c147341125ac8ffdbcfd372e1554bf66",
+    "size": 330996
+  },
+  {
+    "path": "saturn-mc1.20.1-0.1.3.jar",
+    "sha1": "ad93f99d46714c46aaa6a4409aeca506e9fcac99",
+    "size": 92319
+  },
+  {
+    "path": "sliceanddice-forge-3.6.0.jar",
+    "sha1": "a4e47dbf4382ebe092b6c2cb71919e412b456d84",
+    "size": 588268
+  },
+  {
+    "path": "smoothboot(reloaded)-mc1.20.1-0.0.4.jar",
+    "sha1": "3fd79132dba444bd109b5de4ad75dee06a48e130",
+    "size": 41044
+  },
+  {
+    "path": "sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
+    "sha1": "d27524e85bed0f0af83c03be46f9ca3eb02a1be9",
+    "size": 511601
+  },
+  {
+    "path": "starlight-1.1.2+forge.1cda73c.jar",
+    "sha1": "a915880c7834a0b0f9f300f0e3053deaa9a3205a",
+    "size": 110583
+  },
+  {
+    "path": "Steam_Rails-1.6.14-beta+forge-mc1.20.1.jar",
+    "sha1": "90ea1d917bc20a5e4cc50abaa512d2084149dc64",
+    "size": 9999782
+  },
+  {
+    "path": "storage-drawers-create-compat-1.0.1.jar",
+    "sha1": "721fbc60d3df917b587f5d6e65cd39960b297bd0",
+    "size": 1321464
+  },
+  {
+    "path": "tfmg-1.0.2d.jar",
+    "sha1": "679874e8395622c95151513bdf0a3edec78e743f",
+    "size": 5342816
+  },
+  {
+    "path": "threatengl-forge-2.0.4-release.10.jar",
+    "sha1": "79478bbc21b1258b64d22dacaac6177618c1ed9d",
+    "size": 51241
+  },
+  {
+    "path": "ToadLib-1.3.5-1.20.1.jar",
+    "sha1": "8bb8cc89b7b01fe18760b9536dcd1a96e6e0cff6",
+    "size": 506353
+  },
+  {
+    "path": "toms_storage-1.20-1.7.1.jar",
+    "sha1": "8b70aed9e35ad78fdc2f9fcb94a29dc64ba8d757",
+    "size": 520148
+  },
+  {
+    "path": "Too Many Entities 1.20.1 Forge v1.1.1.jar",
+    "sha1": "28df84e7de69e1bad1ec606f09af7ae557444caf",
+    "size": 254299
+  },
+  {
+    "path": "trading_floor-forge-1.20.1-2.0.5.jar",
+    "sha1": "073fe2c4b902975332190f16160ec418494f641a",
+    "size": 288762
+  },
+  {
+    "path": "trainutilities-forge-3.0.0-C6.jar",
+    "sha1": "dea1fa700992f76639d60074c5672e725d8d89b3",
+    "size": 2386077
+  },
+  {
+    "path": "underground_village-1.5.5.jar",
+    "sha1": "7efc15e5268873616eb2a6309a6da12f50309d2c",
+    "size": 331648
+  },
+  {
+    "path": "vanillaIcecreamFix-1.0.2-forge-beta.jar",
+    "sha1": "90f6de3d06a4a97f30f7f766b992ed498d30bd63",
+    "size": 82123
+  },
+  {
+    "path": "XaerosWorldMap_1.39.12_Forge_1.20 (1).jar",
+    "sha1": "3c4005a400ba8270738bbe4c573526749ecf2f8f",
+    "size": 960799
+  },
+  {
+    "path": "Xaeros_Minimap_25.2.10_Forge_1.20.jar",
+    "sha1": "1f23df114da3a8603dbe4781c07e8acf20f6d1ce",
+    "size": 1723029
+  }
+]
